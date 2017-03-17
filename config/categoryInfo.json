@@ -1,0 +1,18 @@
+{
+  "categories": {
+                }, 
+  "displayTree": { "unauthenticated": {
+                     "label": "Public Data",
+                     "children": [
+                         {
+                             "label": "Genomes",
+                             "category": "genomes"
+                         },
+                         {
+                             "label": "Genome Features",
+                             "category": "features"
+                         }
+                     ]
+                 }
+            }
+}
